@@ -4,10 +4,12 @@ Landing page for a modern electronics brand inspired by **Nothing**.
 The project focuses on clean UI, modern layout, and responsive design.
 
 Live demo:
-https://vitalii120296.github.io/landing-page_Nothing/
+    - [DEMO LINK](https://vitalii120296.github.io/landing-page_Nothing/)
+
 
 Design Reference:
-figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0
+    - [LINK](figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+
 
 Technologies used:
 
